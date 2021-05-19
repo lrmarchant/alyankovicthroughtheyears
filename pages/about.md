@@ -1,5 +1,5 @@
 ---
-title: About
+title: A True Poet of Comedy
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -8,18 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html %}
+The life and times of Al Yankovic cannot easily be summed up by a slapdash example page, but I hope that this site has brought you a chuckle.
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
-## About the Collection
-
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
-
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/item-video-embed.html link="https://www.youtube.com/watch?v=lOfZLb33uCg" %}
