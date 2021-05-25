@@ -12,4 +12,4 @@ credits: true
 
 The life and times of Al Yankovic cannot easily be summed up by a slapdash example page, but I hope that this site has brought you a chuckle.
 
-{% include feature/item-video-embed.html link="https://www.youtube.com/watch?v=lOfZLb33uCg" width="75"%}
+{% include feature/item-video-embed.html youtubeid="lOfZLb33uCg" width="75" caption=false %}
